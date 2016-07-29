@@ -31,6 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/card_header_inner_simple_title"
+        android:gravity="center_vertical"
         style="@style/card.header_simple_title"
         android:layout_centerVertical="true"/>
 
